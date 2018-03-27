@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-
+//adds all prime numbers and find the longest sequence that is the sum of prime numbers, that's below 1,000,000
 public class ConsecutiveSumOfPrimeNumber {
 	static List<Integer> Prime1 = new ArrayList<Integer>();
 	static int	consecutiveSum=2;
