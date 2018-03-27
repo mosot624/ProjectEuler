@@ -1,6 +1,6 @@
 
 public class FactorialProjectEuler {
-
+	//adds each single digit together of the factorial result. E,g 10! = 3628800. It would add 3+6+2+8+8+0+0. The result is 27.
 	public static void main(String[] args) {
 		System.out.println(SumFactorial(factorial(10)));
 	}
