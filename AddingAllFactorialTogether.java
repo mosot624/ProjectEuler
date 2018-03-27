@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//This add all factorials together
 public class AddingAllFactorialTogether {
 	static int number = 1;
 	public static void main(String[] args) {
