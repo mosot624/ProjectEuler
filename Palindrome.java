@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 import java.util.TreeSet;
-
+//The largest palindrome made from the product of two 4-digit number
 public class Palindrome {
 	public static void main(String[] args){
 		System.out.println(palindrome());
