@@ -1,6 +1,6 @@
 
 public class FibSiq {
-
+//Fibonacci number
 	public static void main(String[] args) {
 		System.out.println(fibSiq());
 	}
